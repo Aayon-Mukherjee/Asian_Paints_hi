@@ -1,6 +1,6 @@
 **अगर आप हिंदी जारी रखना चाहते हैं तो नीचे दिए गए लिंक पर टैप करें:**
 
-[English]()
+[English](https://github.com/Aayon-Mukherjee/Asian_Paints_en/blob/main/Asian_en.md)
 
 ![Asian Paint Logo](http://3.bp.blogspot.com/-vb6_OW_YFOI/UGt0Jgb4DYI/AAAAAAAANrg/jWniKqe0N6Y/s1600/Asian+Paints+logo.png)
 
@@ -156,7 +156,7 @@
 ## अन्य ब्रांड जो सहमति दे सकते हैं:
 
 * [बर्जर](https://github.com/Aayon-Mukherjee/Berger_Paints_hi/tree/main)
-* [नेरोलैक पेंट्स]()
+* [नेरोलैक पेंट्स](https://github.com/Aayon-Mukherjee/Nerolac_Paints_hi/blob/main/README.md)
   
 ---
 <h3 align="left">एशियन पेंट्स के साथ जुड़ें :</h3>
