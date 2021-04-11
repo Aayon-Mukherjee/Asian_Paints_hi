@@ -155,8 +155,8 @@
 
 ## अन्य ब्रांड जो सहमति दे सकते हैं:
 
-* [बर्जर](https://github.com/Aayon-Mukherjee/Berger_Paints_hi/tree/main)
-* [नेरोलैक पेंट्स](https://github.com/Aayon-Mukherjee/Nerolac_Paints_hi/blob/main/README.md)
+* [बर्जर](https://github.com/Aayon-Mukherjee/Berger_Paints_hi/blob/main/Berger_hi.md)
+* [नेरोलैक पेंट्स](https://github.com/Aayon-Mukherjee/Nerolac_Paints_hi/blob/main/nerolac_hi.md)
   
 ---
 <h3 align="left">एशियन पेंट्स के साथ जुड़ें :</h3>
